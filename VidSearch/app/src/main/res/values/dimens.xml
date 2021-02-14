@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="images_folder_thumbnail_size">150dp</dimen>
+    <dimen name="image_faces_thumbnail_size">200dp</dimen>
+    <dimen name="selected_face_thumbnail_size">100dp</dimen>
+    <dimen name="face_thumbnail_size">50dp</dimen>
+</resources>

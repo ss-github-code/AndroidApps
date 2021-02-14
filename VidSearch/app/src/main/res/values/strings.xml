@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Video Search App</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_images_folders_text">No folders with images on this device</string>
+    <string name="no_faces_found_text">No images with faces in this folder</string>
+    <string name="finding_faces_text">Finding faces</string>
+    <string name="of">of</string>
+    <string name="name">Name</string>
+    <string name="family">Family</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="folder">&#160;Folder</string> <!-- special character for white space in XML -->
+    <string name="selected_picture">Selected Picture</string>
+    <string name="select_folder">Select folder…</string>
+    <string name="select_face">Select face…</string>
+    <string name="finding_matching_faces_text">Matching faces in video</string>
+    <string name="search_videos">Search Videos</string>
+    <string name="no_videos_found_text">No folders with videos on this device</string>
+</resources>
